@@ -11,12 +11,11 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi, my name is Shihan. I’m a first-year graduate student in the Public Policy and Management program at Heinz College. You are welcome to call me Shihan, and I use she/her pronouns. This is my first year living in Pittsburgh. Before coming to the US, I’ve been living with my parents in Shanghai, China. As the only child in my family, we have close family ties with each other. I was a language student during my undergraduate, learning English, French, and Spanish, which helped me connect with people from different cultures and backgrounds. My upbringing and educational background have reinforced my love for traveling. 
+Hi, my name is *Shihan Shen*. I’m a first-year graduate student in the Public Policy and Management program at Heinz College. You are welcome to call me Shihan, and I use she/her pronouns. This is my first year living in Pittsburgh. Before coming to the US, I’ve been living with my parents in Shanghai, China. Before, I have limited experience related to data visualization. Hope I can learn practical skills to apply to my future job. 
 
 
 # What I hope to learn
-By taking this course, I hopeto gain a comprehensive understanding of the art and science behind effective data visualization. All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
+By taking this course, I hope to gain a comprehensive understanding of the art and science behind effective data visualization. Maybe I want to make a **list** of all the things:
 1. learn a variaty of visualization techtiques
 2. learn how to craft compelling stories using data
 3. sharpen my ability to analyze and reconstruct data visualizations
