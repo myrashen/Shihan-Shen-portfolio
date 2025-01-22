@@ -27,7 +27,7 @@ By taking this course, I hopeto gain a comprehensive understanding of the art an
 # Portfolio
 
 ## Assignment: [Data Viz Redesign](data-viz-redesign)
- ![Data Viz Redesign](Data-viz-resign.png)
+ ![Data Viz Redesign](Data-viz-redesign.png)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
