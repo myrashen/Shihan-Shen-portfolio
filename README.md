@@ -11,7 +11,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi, my name is *Shihan Shen*. I’m a first-year graduate student in the Public Policy and Management program at Heinz College. You are welcome to call me Shihan, and I use she/her pronouns. This is my first year living in Pittsburgh. Before coming to the US, I’ve been living with my parents in Shanghai, China. Before, I have limited experience related to data visualization. Hope I can learn practical skills to apply to my future job. 
+Hi, my name is *Shihan Shen*. I’m a first-year graduate student in the Public Policy and Management program at Heinz College. You are welcome to call me Shihan, and I use she/her pronouns. This is my first year living in Pittsburgh. Before coming to the US, I’ve been living with my parents in Shanghai, China. Previously, I have limited experience related to data visualization. Hope I can learn practical skills to apply to my future job. 
 
 
 # What I hope to learn
