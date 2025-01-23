@@ -1,4 +1,4 @@
-| [home page](https://myrashen.github.io/Shihan-Shen-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://myrashen.github.io/Shihan-Shen-portfolio/) | [Data Viz Redesign](data-viz-redesign) | [Critique by Design](critique-by-design) | [Part I](final-project-part-one) | [Part II](final-project-part-two) | [Part III](final-project-part-three) |
 
 # TSWD-portfolio-templates
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
@@ -35,7 +35,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
