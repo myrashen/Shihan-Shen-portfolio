@@ -28,6 +28,9 @@ By taking this course, I hope to gain a comprehensive understanding of the art a
 ## Assignment: [Data Viz Redesign](data-viz-redesign)
  ![Data Viz Redesign](Data-viz-redesign.png)
 
+## Assignment: [Demo_2025](demo_2025)
+ ![Demo_2025](demo_2025.md)
+ 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
