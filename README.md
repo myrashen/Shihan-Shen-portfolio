@@ -26,7 +26,7 @@ By taking this course, I hope to gain a comprehensive understanding of the art a
 
 # Portfolio
 
-## Assignment: [Data Viz Redesign](data-viz-redesign)
+## Assignment: [Data Viz Redesign](data-viz-redesign.png)
  ![Data Viz Redesign](Data-viz-redesign.png)
 
 ## Assignment: [Demo_2025](demo_2025)
