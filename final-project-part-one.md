@@ -3,14 +3,24 @@
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+# Outline 
  
-Text here...
+## HIGH-LEVEL SUMMARY:
+The transition to electric vehicles (EVs) in the U.S. has been shaped by a complex interplay of government policies, consumer preferences, and market forces. While federal and state tax incentives have played a crucial role in encouraging EV adoption, recent shifts in policy—such as potential changes to EV tax credits—have raised concerns about the future growth of the market. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+## AIM:
 
-Text here...
+As a reader, I want to know the reason why EVs market in US isn't booming as that in China so that I can make an informed decision about whether purchasing an EV is financially and practically viable for me. 
+
+## STRUCTURE:
+
+- Overall Narrative: What the EVs market and transition in US looks like?
+- Specific Questions: 1) Practical Considerations for consumers; 2) Policy of EV tax credits
+- Call to Action: 1)Policy Makers; 2) Consumers; 3) Automakers
+
+Story Arc:
+
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
