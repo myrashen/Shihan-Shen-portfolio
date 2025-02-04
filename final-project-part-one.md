@@ -16,10 +16,9 @@ As a reader, I want to know the reason why EVs market in US isn't booming as tha
 
 - Overall Narrative: What the EVs market and transition in US looks like?
 - Specific Questions: 1) Practical Considerations for consumers; 2) Policy of EV tax credits
-- Call to Action: 1)Policy Makers; 2) Consumers; 3) Automakers
+- Call to Action: 1) Policy Makers; 2) Consumers; 3) Automakers
 
-Story Arc:
-
+![Story Arc](WechatIMG1.jpg)
 
 
 ## Initial sketches
