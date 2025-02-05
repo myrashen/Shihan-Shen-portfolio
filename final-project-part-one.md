@@ -41,15 +41,21 @@ As a reader, I want to know the reason why EVs market in US isn't booming as tha
 |U.S. quarterly battery electric vehicle sales|https://www.statista.com/statistics/1231872/battery-electric-vehicle-sales-in-the-united-states/|U.S. EVs sales market booming|
 |Incentives available for electric-only vehicle owners|https://www.statista.com/statistics/1325815/us-incentives-available-for-electric-only-vehicle-owners-that-owners-are-aware-of/|A survey carried in the U.S. of the tax rebates or discounts.|
 |Brand Market Share|https://www.ceicdata.com/en/united-states/electric-vehicle-sales-by-brand-and-model-ytd|Each Brand Share|
+|TBD｜TBD｜TBD|
 
+I will display the project from the data source above from three perspectives: 1) Overview of EVs Revolution (e.g. sales booming, brand share); 2) Customers' choices (e.g. average price of EVs, incentives to purchase) 3) Policy effects (e.g.Tax credits policy). By applying the data, I aim to tell a story about the EVs Revolution and its practical obstacles and policy implications.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I will use shorthand to plot my story. To tackle with data, I would use Tableau Prep for data cleaning to ensure datasets are aligned in terms of timeframes and formats. For data visualization, I would use Tableau Desk to create an interactive dashboard to make the story more engaging.
 
 ## References
-_List any references you used here._
+“A Revolution Stalls.” The Economist 449, no. 9374 (December 2,2023). https://www.proquest.com/docview/2895469049/abstract/8FB085553A0E434EPQ/12.
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+“Auto Industry’s Shift toward EVs Is Expected to Go on despite Trump Threat to Kill Tax Credits | AP News.” Accessed December 3, 2024. https://apnews.com/article/electric-vehicles-tax-credits-cars-trump-autos-4751a8f9c5a410126d503b4af7f54285.
+
+Christensen, Jen. “Switching to Electric Vehicles Could Save Hundreds of Young Lives and Prevent Millions of Illnesses, Report Says.” CNN, February 21, 2024. https://www.cnn.com/2024/02/21/health/electric-vehicles-air-pollution-kids/index.html.
+
+Yoon, June. “Donald Trump’s Plans Threaten the EV Transition.” Financial Times, November 27, 2024, sec. Business Insight. https://www.ft.com/content/e8f623e1-c75a-478e-ad8f-aa5b05ef6aa0.
+
+
