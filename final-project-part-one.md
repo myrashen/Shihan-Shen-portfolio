@@ -22,9 +22,16 @@ As a reader, I want to know the reason why EVs market in US isn't booming as tha
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![EVs Sales](21738720148.jpg)
+![average price](31738720169.jpg)
+![brand market volumn](41738720186.jpg)
+![EVs market comparison](51738720204.jpg)
+![tax credits](61738720217.jpg)
+
+
+
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
