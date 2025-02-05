@@ -23,11 +23,11 @@ As a reader, I want to know the reason why EVs market in US isn't booming as tha
 
 ## Initial sketches
 
-![EVs Sales](21738720148.jpg)
-![average price](31738720169.jpg)
-![brand market volumn](41738720186.jpg)
-![EVs market comparison](51738720204.jpg)
-![tax credits](61738720217.jpg)
+![EVs Sales](21738720148_.pic.jpg)
+![average price](31738720169_.pic.jpg)
+![brand market volumn](41738720186_.pic.jpg)
+![EVs market comparison](51738720204_.pic.jpg)
+![tax credits](61738720217_.pic.jpg)
 
 
 
