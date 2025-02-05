@@ -6,7 +6,9 @@
 # Outline 
  
 ## HIGH-LEVEL SUMMARY:
-The transition to electric vehicles (EVs) in the U.S. has been shaped by a complex interplay of government policies, consumer preferences, and market forces. While federal and state tax incentives have played a crucial role in encouraging EV adoption, recent shifts in policy—such as potential changes to EV tax credits—have raised concerns about the future growth of the market. 
+
+The transition to electric vehicles (EVs) in the U.S. has been shaped by a complex interplay of government policies, consumer preferences, and market forces. America's electrified motoring isn’t going well. I want to demonstrate the practical obstabcles for consumers to purchase EVs as well as the threats of an abrupt repeal of EV tax credits to the entire industry’s EV transition and should be considered with prudence. The EV revolution is not just an environmental imperative; it’s a collaborative opportunity for government and civilians to a greener, sustainable, and shared future.
+ 
 
 ## AIM:
 
@@ -16,7 +18,7 @@ As a reader, I want to know the reason why EVs market in US isn't booming as tha
 
 - Overall Narrative: What the EVs market and transition in US looks like?
 - Specific Questions: 1) Practical Considerations for consumers; 2) Policy of EV tax credits
-- Call to Action: 1) Policy Makers; 2) Consumers; 3) Automakers
+- Call to Action: 1) Policy Makers' consideration on the repeal of EV tax credits; 2) Consumers on purchasing ; 3) Automakers on development
 
 ![Story Arc](WechatIMG1.jpg)
 
