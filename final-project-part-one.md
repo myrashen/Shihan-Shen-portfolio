@@ -47,7 +47,7 @@ I will display the project from the data source above from three perspectives: 1
 
 # Method and medium
 
-I will use shorthand to plot my story. To tackle with data, I would use Tableau Prep for data cleaning to ensure datasets are aligned in terms of timeframes and formats. For data visualization, I would use Tableau Desk to create an interactive dashboard to make the story more engaging.
+I will use **Shorthand** to plot my story. To tackle with data, I would use **Tableau Prep** for data cleaning to ensure datasets are aligned in terms of timeframes and formats. For data visualization, I would use **Tableau Desk** to create an interactive dashboard to make the story more engaging.
 
 ## References
 “A Revolution Stalls.” The Economist 449, no. 9374 (December 2,2023). https://www.proquest.com/docview/2895469049/abstract/8FB085553A0E434EPQ/12.
