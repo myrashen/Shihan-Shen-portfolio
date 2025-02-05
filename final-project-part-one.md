@@ -37,9 +37,11 @@ As a reader, I want to know the reason why EVs market in US isn't booming as tha
 
 | Name | URL | Description |
 |------|-----|-------------|
+|EVs Overview|https://www.statista.com/outlook/mmo/electric-vehicles/worldwide|Several highlights in EVs Revolution worldwide.|
 |U.S. quarterly battery electric vehicle sales|https://www.statista.com/statistics/1231872/battery-electric-vehicle-sales-in-the-united-states/|U.S. EVs sales market booming|
-|      |     |             |
-|      |     |             |
+|Incentives available for electric-only vehicle owners|https://www.statista.com/statistics/1325815/us-incentives-available-for-electric-only-vehicle-owners-that-owners-are-aware-of/|A survey carried in the U.S. of the tax rebates or discounts.|
+|Brand Market Share|https://www.ceicdata.com/en/united-states/electric-vehicle-sales-by-brand-and-model-ytd|Each Brand Share|
+
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
