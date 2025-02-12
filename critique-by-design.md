@@ -28,30 +28,11 @@ I think this visualization is not effective for reaching those audiences. The vi
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|Can you tell me what you think this is?|student,MISM Program: the heatmap shows the engagement level of users on different platforms|student, Mid 20': the heatmap shows the comparison between platform popularity|
+|Is there anything you find surprising or confusing?|student,MISM Program: the effort on dividing the overwhelming line chart into three charts|student, Mid 20': the stacked bar chart clearly represents the composition of demographic elements|
+|Is there anything you would change or do differently?|student,MISM Program: add some cross-platform analyses|student, Mid 20': add filter function for clearity|
 
 Synthesis: 
 
