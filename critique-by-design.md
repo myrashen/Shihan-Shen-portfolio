@@ -11,7 +11,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-[Global Energy Use](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)
+[Global Energy Production and Consumption](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
