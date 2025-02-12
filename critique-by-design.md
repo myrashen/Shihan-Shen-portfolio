@@ -23,7 +23,8 @@ I think this visualization is not effective for reaching those audiences. The vi
 
 ## Step three: Sketch a solution
 
-
+![line charts of overall proportion](WechatIMG2.jpg)
+![charts of demographics analysis](WechatIMG3.jpg)
 
 ## Step four: Test the solution
 
