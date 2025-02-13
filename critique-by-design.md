@@ -6,7 +6,7 @@
 
 The initial data visualization link: [Demographics of Social Media Users](https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform)
 
-Before looking further on the data visualization, I think this topic is very useful because many Americans use social media to connect with one another, engage with news content, share information and entertain themselves. 
+Before looking further on the data visualization, I think this topic is very useful because many Americans use social media to connect with one another, engage with news content, share information and entertain themselves. Among the widespread social media landscape, there exits long-enduring development regarding the social media users, from where we can come up with some insights on social media trends.
 
 The primary audience, I suppose, are mainly the policy makers and analysts those studying the impact of social media. Besides, I thought it was also useful for business leaders and strategists. Through the demographic analysis of social media users, policy analysts can analyze the public opinions and propoganda. Companies can decide where to allocate marketing budgets and resources, such as  advertising. 
 
@@ -14,11 +14,11 @@ However, I think this visualization is not effective for reaching those audience
 
 ## Step two: the critique
 
-I began the critique by design on demographics of social media users by critically evaluating the initial data visualization using Stephen Few's Data Visualization Effectiveness Profile. I focused on perceptibility, aesthetics, and engagement in conveying insights about social media users' engagement trends. 
+I began the critique by design on demographics of social media users by critically evaluating the initial data visualization using Stephen Few's Data Visualization Effectiveness Profile. The seven dimensions of criteria Stephen lists are instructive. Based on this Data Visualization Effectiveness Profile, I found both advantages and shortcomings with the demographics of social media users.
 
-This data visualization did well in credibility and clarity. I can approach to its data source on the URL. It has several notes explaining some specific data point, such as the vertical line in the chart, indicating a change in survey mode. On this web page, there is a board, "HOW WE DID THIS", explaining its methodology, purpose and survey questions as supplemental information.
+This data visualization did well in credibility and clarity. I can approach to its data source on the URL. It has several notes explaining some specific data point, such as the vertical line in the chart, indicating a change in survey mode. On this web page, there is a board, "HOW WE DID THIS", explaining its methodology, purpose and survey questions as supplemental information. It did well in trustfulness, intuitiveness, and completeness.
 
-However, this data visualization were really bad in the aesthetics and engagement. It solely uses charts and tables to visualize the percentage of social media users in demographic perspectives.  Besides, the visuals are purely functional, with no interactivity, designs, or storytelling elements. Users can’t filter, compare, or explore the data beyond what is given. A key realization was that while the original visualization presented interesting data points, it lacked a clear narrative, making it difficult for viewers to extract meaningful conclusions at a glance. Additionally, the color scheme and labeling needed improvement for better readability.
+However, this data visualization were really bad in the aesthetics and engagement. It solely uses charts and tables to visualize the percentage of social media users in demographic perspectives. Besides, the visuals are purely functional, with no interactivity, designs, or storytelling elements. Users can’t filter, compare, or explore the data beyond what is given. A key realization was that while the original visualization presented interesting data points, it lacked a clear narrative, making it difficult for viewers to extract meaningful conclusions at a glance. Additionally, the color scheme and labeling needed improvement for better readability.
 
 I would at least change the form of charts, making it more visible and showing more on social media trends. Besides, I would add an interactive function, such as filters.
 
@@ -46,15 +46,16 @@ From a demographics perspective, I planned to apply stacked bar charts to show t
 |Is there anything you would change or do differently?|student,MISM Program: add some cross-platform analyses|student, Mid 20': improve color designs for clearity|
 
 Synthesis: 
-I think my solution is clear for the audience to have a glance at. Based on the feedback, I think incorporating a cross-platform analysis is helpful to understand social media users'preferences between different platforms. And I should improve the color scheme to ensure perceptibility, using contrasting but visually cohesive palettes.
+I think my solution is clear for the audience to have a glance at. Based on the feedback, I should improve the color scheme to ensure perceptibility, using contrasting but visually cohesive palettes. Besides, adding a brief summary text below the visualization helps to guide the audience on how to interpret key patterns. I might use a filter function for better clarity and customization, allowing users to focus on specific demographics or trends.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+**1)Overview of social media platforms:**
 
 ![social media users](socialmediaheatmap.png)
 The graph is a treemap visualization that illustrates the percentage of U.S. adults who report using various social media platforms as of June 10, 2024. The purpose of the graph is to provide a comparative overview of social media platform usage among U.S. adults, emphasizing the relative popularity of different platforms.
 
+**2)Line charts of grouped platforms:**
 <div class='tableauPlaceholder' id='viz1739411300305' style='position: relative'>
    <noscript><a href='#'><img alt='% of U.S. adults who say they ever use …(dominant platforms) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;so&#47;socialmediausers&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript>
    <object class='tableauViz'  style='display:none;'>
@@ -116,6 +117,9 @@ The graph is a treemap visualization that illustrates the percentage of U.S. adu
 </div>
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1739412057523');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
+These graphs are line and area visualization that illustrates the percentage of U.S. adults who report using various social media platforms as time goes. The purpose of these graphs is to provide a clear overview of three groups of social media platform usage among U.S. adults, representing the rise and fall.
+
+**3)One of the demographics stacked bar chart:**
 <div class='tableauPlaceholder' id='viz1739418968371' style='position: relative'>
    <noscript><a href='#'><img alt='% of U.S. adults who say they ever use __ by Age ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17394189575970&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript>
    <object class='tableauViz'  style='display:none;'>
@@ -137,7 +141,7 @@ The graph is a treemap visualization that illustrates the percentage of U.S. adu
 </div>
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1739418968371');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
-
+The graph is a stacked bar chart that illustrates the percentage of U.S. adults who report using various social media platforms by age groups. The purpose of the graph is to provide a comparative overview of social media platform usage among U.S. adults, emphasizing the relative age groups composed.
 
 ## References
 "Data Visualization Effectiveness Profile", Stephen Few,*Perceptual Edge*, *Visual Business Intelligence Newsletter*, 2017.
