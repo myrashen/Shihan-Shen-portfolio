@@ -6,7 +6,7 @@
 
 The initial data visualization link:[Demographics of Social Media Users](https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform)
 
-Before looking further on the data visualization, I think this topic is very useful because many Americans use social media to connect with one another, engage with news content, share information and entertain themselves. Explore the patterns and trends shaping the social media landscape.
+Before looking further on the data visualization, I think this topic is very useful because many Americans use social media to connect with one another, engage with news content, share information and entertain themselves. 
 
 The primary audience, I suppose, are mainly the policy makers and analysts those studying the impact of social media. Besides, I thought it was also useful for business leaders and strategists. Through the demographic analysis of social media users, policy analysts can analyze the public opinions and propoganda. Companies can decide where to allocate marketing budgets and resources, such as  advertising. 
 
