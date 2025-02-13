@@ -1,30 +1,41 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Demographics of Social Media Users
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Critique by Design on Demographics of Social Media Users  
 
 ## Step one: the visualization
 
-[Demographics of Social Media Users](https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform)
+The initial data visualization link:[Demographics of Social Media Users](https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform)
 
-The primary audience for this tool, I suppose, are mainly the policy makers and analysts those studying the impact of social media. Besides, I thought it was also useful for business leaders and strategists. Through the demographic analysis of social media users, policy analysts can analyze the public opinions and propoganda. Companies can decide where to allocate marketing budgets and resources, such as  advertising. 
-I think this visualization is not effective for reaching those audiences. The visuals are static and lack storytelling. It merely displayed the data collection, with no further explanation or any narratives related to meaningful storytelling.
+Before looking further on the data visualization, I think this topic is very useful because many Americans use social media to connect with one another, engage with news content, share information and entertain themselves. Explore the patterns and trends shaping the social media landscape.
+
+The primary audience, I suppose, are mainly the policy makers and analysts those studying the impact of social media. Besides, I thought it was also useful for business leaders and strategists. Through the demographic analysis of social media users, policy analysts can analyze the public opinions and propoganda. Companies can decide where to allocate marketing budgets and resources, such as  advertising. 
+
+However, I think this visualization is not effective for reaching those audiences. The visuals are static and lack storytelling. It merely displayed the data collection, with no further explanation or any narratives related to meaningful storytelling.
 
 ## Step two: the critique
 
-1) What first stood out to me is that the Pew Research Center  has a highly reliable source, providing clearly-presented social media usage data.
-2) This data visualization did well in credibility and clarity. I can approach to its data source on the URL. It has several notes explaining some specific data point, such as the vertical line in the chart, indicating a change in survey mode. On this web page, there is a board, "HOW WE DID THIS", explaining its methodology, purpose and survey questions as supplemental information.
-3) This data visualization were really bad in the aesthetics and engagement. It solely uses charts and tables to visualize the percentage of social media users in demographic perspectives.  Besides, the visuals are purely functional, with no interactivity, designs, or storytelling elements. Users can’t filter, compare, or explore the data beyond what is given.
-4) I would at least change the form of charts, making it more visible and showing more on social media trends. Besides, I would add an interactive function, such as filters.
+I began the critique by design on demographics of social media users by critically evaluating the initial data visualization using Stephen Few's Data Visualization Effectiveness Profile. I focused on perceptibility, aesthetics, and engagement in conveying insights about social media users' engagement trends. 
+
+This data visualization did well in credibility and clarity. I can approach to its data source on the URL. It has several notes explaining some specific data point, such as the vertical line in the chart, indicating a change in survey mode. On this web page, there is a board, "HOW WE DID THIS", explaining its methodology, purpose and survey questions as supplemental information.
+
+However, this data visualization were really bad in the aesthetics and engagement. It solely uses charts and tables to visualize the percentage of social media users in demographic perspectives.  Besides, the visuals are purely functional, with no interactivity, designs, or storytelling elements. Users can’t filter, compare, or explore the data beyond what is given. A key realization was that while the original visualization presented interesting data points, it lacked a clear narrative, making it difficult for viewers to extract meaningful conclusions at a glance. Additionally, the color scheme and labeling needed improvement for better readability.
+
+I would at least change the form of charts, making it more visible and showing more on social media trends. Besides, I would add an interactive function, such as filters.
 
 ## Step three: Sketch a solution
 
 ![line charts of overall proportion](WechatIMG2.jpg)
+
+Explanations:
+With the critique in mind, I moved to sketching potential redesigns. I explored different visual formats, including line charts to depict trends over time, scatter plots to show correlations, and bar charts to highlight the most engaged users. In my initial design, instead of overwhelming and colorful lines, I decided to divide the twelve lines into three groups:
+1) Dominant platforms with over 50% engagement now.
+2) Emerging and prospect platforms with rapid growth in engagement.
+3) Shrinking platforms with declining user engagement.
+
 ![charts of demographics analysis](WechatIMG3.jpg)
+
+Explanations:
+From a demographics perspective, I planned to apply stacked bar charts to show the composition of gender and age and to facilitate comparisons between various platforms. For ethnicity and education data, I opted for area charts to illustrate both the composition and trends in social media engagement across different racial and educational backgrounds. 
 
 ## Step four: Test the solution
 
@@ -35,18 +46,13 @@ I think this visualization is not effective for reaching those audiences. The vi
 |Is there anything you would change or do differently?|student,MISM Program: add some cross-platform analyses|student, Mid 20': add filter function for clearity|
 
 Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+I think my solution is clear for the audience to have a glance at. Based on the feedback, I think incorporating a cross-platform analysis is helpful to understand social media users'preferences between different platforms. Besides, a filter function could be added for better clarity and customization, allowing users to focus on specific demographics or trends.
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ![social media users](socialmediaheatmap.png)
+The graph is a treemap visualization that illustrates the percentage of U.S. adults who report using various social media platforms as of June 10, 2024. The purpose of the graph is to provide a comparative overview of social media platform usage among U.S. adults, emphasizing the relative popularity of different platforms.
 
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
