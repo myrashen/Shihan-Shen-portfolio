@@ -55,9 +55,9 @@ _Include and describe your final solution here. It's also a good idea to summari
 ![social media users](socialmediaheatmap.png)
 The graph is a treemap visualization that illustrates the percentage of U.S. adults who report using various social media platforms as of June 10, 2024. The purpose of the graph is to provide a comparative overview of social media platform usage among U.S. adults, emphasizing the relative popularity of different platforms.
 
-![dominant social media platforms](dominant.social.media.platforms)
+[dominant social media platforms](dominant.social.media.platforms)
 
-![emerging social media platforms](emerging.social.media.platforms)
+[emerging social media platforms](emerging.social.media.platforms)
 
 ## References
 "Data Visualization Effectiveness Profile", Stephen Few,*Perceptual Edge*, *Visual Business Intelligence Newsletter*, 2017.
