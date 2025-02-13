@@ -39,11 +39,11 @@ From a demographics perspective, I planned to apply stacked bar charts to show t
 
 ## Step four: Test the solution
 
-| Question | Interview 1 | Interview 2 |
+| Question | Interview 1: Student, MISM Program | Interview 2: Student, Mid 20' |
 |----------|-------------|-------------|
-|Can you tell me what you think this is?|student,MISM Program: the heatmap shows the engagement level of users on different platforms|student, Mid 20': the heatmap shows the comparison between platform popularity|
-|Is there anything you find surprising or confusing?|student,MISM Program: the effort on dividing the overwhelming line chart into three charts|student, Mid 20': the stacked bar chart clearly represents the composition of demographic elements|
-|Is there anything you would change or do differently?|student,MISM Program: add some cross-platform analyses|student, Mid 20': improve color designs for clearity|
+|Can you tell me what you think this is?|The heatmap shows the engagement level of users on different platforms|The heatmap shows the comparison between platform popularity|
+|Is there anything you find surprising or confusing?|The effort on dividing the overwhelming line chart into three charts|The stacked bar chart clearly represents the composition of demographic elements|
+|Is there anything you would change or do differently?|Add some cross-platform analyses|Improve color designs for clearity|
 
 Synthesis: 
 I think my solution is clear for the audience to have a glance at. Based on the feedback, I should improve the color scheme to ensure perceptibility, using contrasting but visually cohesive palettes. Besides, adding a brief summary text below the visualization helps to guide the audience on how to interpret key patterns. I might use a filter function for better clarity and customization, allowing users to focus on specific demographics or trends.
