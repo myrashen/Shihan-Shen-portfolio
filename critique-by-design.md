@@ -55,9 +55,27 @@ _Include and describe your final solution here. It's also a good idea to summari
 ![social media users](socialmediaheatmap.png)
 The graph is a treemap visualization that illustrates the percentage of U.S. adults who report using various social media platforms as of June 10, 2024. The purpose of the graph is to provide a comparative overview of social media platform usage among U.S. adults, emphasizing the relative popularity of different platforms.
 
-[dominant social media platforms](dominant.social.media.platforms)
+<div class='tableauPlaceholder' id='viz1739411300305' style='position: relative'>
+   <noscript><a href='#'><img alt='% of U.S. adults who say they ever use …(dominant platforms) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;so&#47;socialmediausers&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript>
+   <object class='tableauViz'  style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+      <param name='embed_code_version' value='3' />
+      <param name='site_root' value='' />
+      <param name='name' value='socialmediausers&#47;Sheet1' />
+      <param name='tabs' value='no' />
+      <param name='toolbar' value='yes' />
+      <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;so&#47;socialmediausers&#47;Sheet1&#47;1.png' />
+      <param name='animate_transition' value='yes' />
+      <param name='display_static_image' value='yes' />
+      <param name='display_spinner' value='yes' />
+      <param name='display_overlay' value='yes' />
+      <param name='display_count' value='yes' />
+      <param name='language' value='zh-CN' />
+   </object>
+</div>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1739411300305');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
-[emerging social media platforms](emerging.social.media.platforms)
+
 
 ## References
 "Data Visualization Effectiveness Profile", Stephen Few,*Perceptual Edge*, *Visual Business Intelligence Newsletter*, 2017.
