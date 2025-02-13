@@ -30,7 +30,7 @@ Explanations:
 With the critique in mind, I moved to sketching potential redesigns. I explored different visual formats, including line charts to depict trends over time, scatter plots to show correlations, and bar charts to highlight the most engaged users. In my initial design, instead of overwhelming and colorful lines, I decided to divide the twelve lines into three groups:
 1) Dominant platforms with over 50% engagement now.
 2) Emerging and prospect platforms with rapid growth in engagement.
-3) Shrinking platforms with declining user engagement.
+3) Shrinking platforms with slowly growing user engagement.
 
 ![charts of demographics analysis](WechatIMG3.jpg)
 
