@@ -43,10 +43,10 @@ From a demographics perspective, I planned to apply stacked bar charts to show t
 |----------|-------------|-------------|
 |Can you tell me what you think this is?|student,MISM Program: the heatmap shows the engagement level of users on different platforms|student, Mid 20': the heatmap shows the comparison between platform popularity|
 |Is there anything you find surprising or confusing?|student,MISM Program: the effort on dividing the overwhelming line chart into three charts|student, Mid 20': the stacked bar chart clearly represents the composition of demographic elements|
-|Is there anything you would change or do differently?|student,MISM Program: add some cross-platform analyses|student, Mid 20': add filter function for clearity|
+|Is there anything you would change or do differently?|student,MISM Program: add some cross-platform analyses|student, Mid 20': improve color designs for clearity|
 
 Synthesis: 
-I think my solution is clear for the audience to have a glance at. Based on the feedback, I think incorporating a cross-platform analysis is helpful to understand social media users'preferences between different platforms. Besides, a filter function could be added for better clarity and customization, allowing users to focus on specific demographics or trends.
+I think my solution is clear for the audience to have a glance at. Based on the feedback, I think incorporating a cross-platform analysis is helpful to understand social media users'preferences between different platforms. And I should improve the color scheme to ensure perceptibility, using contrasting but visually cohesive palettes.
 
 ## Step five: build the solution
 
