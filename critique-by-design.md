@@ -50,12 +50,12 @@ I think my solution is clear for the audience to have a glance at. Based on the 
 
 ## Step five: build the solution
 
-**1)Overview of social media platforms:**
+**1) Overview of social media platforms:**
 
 ![social media users](socialmediaheatmap.png)
 The graph is a treemap visualization that illustrates the percentage of U.S. adults who report using various social media platforms as of June 10, 2024. The purpose of the graph is to provide a comparative overview of social media platform usage among U.S. adults, emphasizing the relative popularity of different platforms.
 
-**2)Line charts of grouped platforms:**
+**2) Line charts of grouped platforms:**
 <div class='tableauPlaceholder' id='viz1739411300305' style='position: relative'>
    <noscript><a href='#'><img alt='% of U.S. adults who say they ever use …(dominant platforms) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;so&#47;socialmediausers&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript>
    <object class='tableauViz'  style='display:none;'>
@@ -117,9 +117,10 @@ The graph is a treemap visualization that illustrates the percentage of U.S. adu
 </div>
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1739412057523');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
+
 These graphs are line and area visualization that illustrates the percentage of U.S. adults who report using various social media platforms as time goes. The purpose of these graphs is to provide a clear overview of three groups of social media platform usage among U.S. adults, representing the rise and fall.
 
-**3)One of the demographics stacked bar chart:**
+**3) One of the demographics stacked bar chart:**
 <div class='tableauPlaceholder' id='viz1739418968371' style='position: relative'>
    <noscript><a href='#'><img alt='% of U.S. adults who say they ever use __ by Age ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17394189575970&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript>
    <object class='tableauViz'  style='display:none;'>
@@ -140,6 +141,7 @@ These graphs are line and area visualization that illustrates the percentage of 
    </object>
 </div>
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1739418968371');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
 
 The graph is a stacked bar chart that illustrates the percentage of U.S. adults who report using various social media platforms by age groups. The purpose of the graph is to provide a comparative overview of social media platform usage among U.S. adults, emphasizing the relative age groups composed.
 
