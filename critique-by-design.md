@@ -4,7 +4,7 @@
 
 ## Step one: the visualization
 
-The initial data visualization link:[Demographics of Social Media Users](https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform)
+The initial data visualization link: [Demographics of Social Media Users](https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform)
 
 Before looking further on the data visualization, I think this topic is very useful because many Americans use social media to connect with one another, engage with news content, share information and entertain themselves. 
 
