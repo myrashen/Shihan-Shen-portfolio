@@ -33,9 +33,9 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| persuation | Insightful feedback            |             |             |
+|  audience                       |                                |             |             |
+|   format|                                |             |             |
 
 
 # Identified changes for Part III
