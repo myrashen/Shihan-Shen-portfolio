@@ -19,8 +19,8 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
+|data story telling cohesiveness |Is there anything related to data storytelling confusing or misleading?|
+|data visualization design | Is the format of Shorthand clear and attractive? |
 |      |                  |
 
 
