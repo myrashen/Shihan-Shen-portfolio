@@ -38,7 +38,7 @@ Here is my story on Shorthand.
 |What barriers hamper you from buying a EV?|Mainly the price of car.|Lack of access to home charging.| Relatively shorter distance EVs can run.|
 |Considering the environmental benefits EVs can bring, would you choose to buy one?|It depends.|Sure. EVs are definitely good to reducing carbon emissions.| Also concern about the battery safety and pollution.|
 
-**Findings Summary**
+**Findings Summary:**
 
 Consumers prefer upfront tax rebates over post-purchase credits.
 
