@@ -38,6 +38,10 @@ Here is my story on Shorthand.
 |What barriers hamper you from buying a EV?|Mainly the price of car.|Lack of access to home charging.| Relatively shorter distance EVs can run.|
 |Considering the environmental benefits EVs can bring, would you choose to buy one?|It depends.|Sure. EVs are definitely good to reducing carbon emissions.| Also concern about the battery safety and pollution.|
 
+**Findings Summary**
+Consumers prefer upfront tax rebates over post-purchase credits.
+Confusion exists about which incentives are available & how to claim them.
+Low-income buyers & renters struggle to benefit from EV policies.
 
 # Identified changes for Part III
 
@@ -45,16 +49,14 @@ Here is my story on Shorthand.
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
 ｜Add some persuation for consumers to buy |Incorporate some insightful feedback from current owners.         | 
-|Add some data about how incentives promote sales of EVs | Find some sales boost after incentives.                                |
-|Format of storytelling| Making it more interactive                               | 
+|Add some data about how incentives promote sales of EVs | Find some sales boost after incentives.  |
+|Many consumers are confused about which incentives exist and how to access them.
+Change|Add a simple flowchart or infographic explaining the EV incentive process.|
+|Other countries (e.g. China) have seen greater success with EV incentives.|Comparison – U.S. vs. China EV Incentives|
+|Format of storytelling| Making it more interactive and add some hooks. | 
 
-> ...include any final thoughts you have here. 
-
-Text here!
 
 
-## References
-_List any references you used here._
 
 ## AI acknowledgements
 I have used GenAI to brainstorm on the general outline of my storytelling. Besides, I have used GenAI to extract dataset and generate csv files to do data visualizations in Tableau.
