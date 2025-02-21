@@ -1,13 +1,15 @@
 | [home page](https://myrashen.github.io/Shihan-Shen-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+
+Here is my story on Shorthand.
 
 [https://carnegiemellon.shorthandstories.com/copy/index.html](https://carnegiemellon.shorthandstories.com/copy/index.html)
 
 # User research 
 
 ## Target audience
+
 | Audience | Concerns |
 |------|------------------|
 |EV Consumers (Current & Potential Buyers) |Costs, tax credits, charging infrastructure, incentives|
@@ -55,5 +57,4 @@ Text here!
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I have used GenAI to brainstorm on the general outline of my storytelling. Besides, I have used GenAI to extract dataset and generate csv files to do data visualizations in Tableau.
