@@ -54,8 +54,7 @@ Low-income buyers & renters struggle to benefit from EV policies.
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
 ｜Add some persuation for consumers to buy |Incorporate some insightful feedback from current owners.         | 
 |Add some data about how incentives promote sales of EVs | Find some sales boost after incentives.  |
-|Many consumers are confused about which incentives exist and how to access them.
-Change|Add a simple flowchart or infographic explaining the EV incentive process.|
+|Many consumers are confused about which incentives exist and how to access them.|Add a simple flowchart or infographic explaining the EV incentive process.|
 |Other countries (e.g. China) have seen greater success with EV incentives.|Comparison – U.S. vs. China EV Incentives|
 |Format of storytelling| Making it more interactive and add some hooks. | 
 
