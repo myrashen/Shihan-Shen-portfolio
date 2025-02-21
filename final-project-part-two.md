@@ -39,9 +39,13 @@ Here is my story on Shorthand.
 |Considering the environmental benefits EVs can bring, would you choose to buy one?|It depends.|Sure. EVs are definitely good to reducing carbon emissions.| Also concern about the battery safety and pollution.|
 
 **Findings Summary**
+
 Consumers prefer upfront tax rebates over post-purchase credits.
+
 Confusion exists about which incentives are available & how to claim them.
+
 Low-income buyers & renters struggle to benefit from EV policies.
+
 
 # Identified changes for Part III
 
