@@ -51,8 +51,7 @@ Low-income buyers & renters struggle to benefit from EV policies.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-｜Add some persuation for consumers to buy |Incorporate some insightful feedback from current owners.         | 
+|Make the story as a persuation for consumers |Incorporate some insightful feedback from current owners.         | 
 |Add some data about how incentives promote sales of EVs | Find some sales boost after incentives.  |
 |Many consumers are confused about which incentives exist and how to access them.|Add a simple flowchart or infographic explaining the EV incentive process.|
 |Other countries (e.g. China) have seen greater success with EV incentives.|Comparison – U.S. vs. China EV Incentives|
