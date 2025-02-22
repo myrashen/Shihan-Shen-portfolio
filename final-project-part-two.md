@@ -4,7 +4,7 @@
 
 Here is my story on Shorthand.
 
-[https://carnegiemellon.shorthandstories.com/copy/index.html](https://carnegiemellon.shorthandstories.com/copy/index.html)
+[Shorthand](https://carnegiemellon.shorthandstories.com/copy/index.html)
 
 # User research 
 
