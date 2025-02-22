@@ -53,11 +53,17 @@ Based on my report, I want to narrow down my target audience to EV consumers in 
 
 **Findings Summary:**
 1) Some are not planning to own an EV, mainly due to high upfront cost. Many potential buyers haven’t even considered an EV yet, suggesting that awareness & education efforts need improvement.
+   
 2) Mixed reactions to incentives. Some say incentives work, but only if they’re strong enough. Some respondents fully support incentives and say they influenced their decision. Others remain loyal to gasoline cars, meaning some consumers won’t switch, even with incentives.
+   
 💡Incentives are not a "one-size-fits-all" solution – while they help, they won’t convert all consumers. Stronger policies are needed to target price-sensitive buyers.
+
 3) Key obstacles stopping people from buying an EV:Car price is too high. Lack of home charging. Limited driving range.
+   
 💡EV adoption won’t increase unless price barriers are addressed. Expanding charging infrastructure is as important as financial incentives.
+
 4) Positive responses on EVs' environmental benefits: Some support EVs for carbon reduction and would consider buying one. Others still worry about battery safety & pollution from battery disposal.
+   
 💡 Sustainability messaging should address both emissions reduction and battery safety to convince skeptical buyers.
 
 
