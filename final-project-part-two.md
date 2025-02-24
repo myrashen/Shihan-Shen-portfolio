@@ -78,7 +78,7 @@ Based on my report, I want to narrow down my target audience to EV consumers in 
 |Many consumers are confused about which incentives exist and how to access them.|Add a simple flowchart or infographic explaining the EV incentive process.|
 |Other countries (e.g. China) have seen greater success with EV incentives.|Make comparison between U.S. and China in EV Incentives|
 |Format of storytelling| Making it more interactive and add some hooks to make the storytelling more attractive. | 
-
+|Calling for action|Supposing the target audience of potential consumers, call for actinos to EVs consumption| 
 
 
 
