@@ -10,7 +10,7 @@ Here is my story on Shorthand.
 
 ## Target audience
 
-Based on my report, I want to narrow down my target audience to policy makers on how government incentives influence EV adoption and identify key barriers and improvements from the consumer’s perspective. Besides of the perspective of the market share, EVs are kind of ambitious attempts to address the climate change issue. I also want to understand how EV adoption impact the environmental issues related to consumers' daily life. 
+Based on my report, I want to narrow down my target audience to policy makers on how government incentives can influence EV adoption and identify key barriers and improvements from the consumer’s perspective. Besides the perspective of the market shares, EVs are kind of ambitious attempts to address the climate change issue. I also want to understand how EV adoption impact the environmental issues related to consumers' daily life. 
 
 | Audience | Concerns |
 |------|------------------|
