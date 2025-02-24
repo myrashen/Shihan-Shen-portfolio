@@ -20,7 +20,7 @@ Based on my report, I want to narrow down my target audience to policy makers on
 
 ## Interview script
 
-*1) policy makers*
+*1) current EV owners*
 | Goal | Questions to Ask |
 |------|------------------|
 |To know about the general EV experience|How you feel about purchasing and driving an EV? & What were the biggest concerns you had before buying an EV?|
@@ -29,17 +29,7 @@ Based on my report, I want to narrow down my target audience to policy makers on
 |To know about the attitude towards carbon emissions|Do you believe EVs are helpful to reduce emissions and the adoption of EVs are effective way to tackle with the climate issue?|
 |To get some recommendations on future incentives |Should government incentives on EVs continue? |
 
-
-*2) current EV owners*
-| Goal | Questions to Ask |
-|------|------------------|
-|To know about the general EV experience|How you feel about purchasing and driving an EV? & What were the biggest concerns you had before buying an EV?|
-|To identify role of government incentives|Did government incentives (tax credits, rebates, free charging, etc.) influence your decision to buy an EV?(If yes, which ones were most helpful?/If no, why?) |
-|To assess barriers to EV adoption|What challenges did you face when purchasing your EV? & What improvements would make EV ownership easier for you? |
-|To know about the attitude towards carbon emissions|Do you believe EVs are helpful to reduce emissions and the adoption of EVs are effective way to tackle with the climate issue?|
-|To get some recommendations on future incentives |Should government incentives on EVs continue? |
-
-*3) potential EV buyers*
+*2) potential EV buyers*
 | Goal | Questions to Ask |
 |------|------------------|
 |To know about the general EV experience| What are the biggest concerns you have from buying an EV?|
