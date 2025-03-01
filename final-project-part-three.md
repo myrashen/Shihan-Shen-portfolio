@@ -1,24 +1,23 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://myrashen.github.io/Shihan-Shen-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+Here is my story on Shorthand.
 
-Text here!
+[The Road to EV Adoption: Should Incentives Policy Continue?](https://carnegiemellon.shorthandstories.com/copy/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+1: Overall, I have narrowed down the target audience mainly to the policy makers. As EV consumers' preferences on EVs provided background information about EV consumption, what I want to focus on is to tell a story about US incentives do encourage the EV sales. Such an effort can help us achieve more on green transition. However, the President Trump and his administration expressed intention to repeal the incentives. Our pace of going green would slow down. Through my storytelling with data, I want to persuade the policy makers to have deep consideration on that.
+2. I have added the section of calling to actions. Initially, I didn't inclued any call-to-action because I have several audiences at first. After I narrowing down to the policy makers, I would like to call for consideration on the repeal of EV tax credits from Congress.
+3. I have changed some links I quoted to make sure they work well.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+I have narrowed down the target audience mainly to the policy makers. As EV consumers' preferences on EVs provided background information about EV consumption, what I want to focus on is to tell a story about US incentives do encourage the EV sales. Such an effort can help us achieve more on green transition. However, the President Trump and his administration expressed intention to repeal the incentives. Our pace of going green would slow down. Through my storytelling with data, I want to persuade the policy makers to have deep consideration on that.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+1. I have removed the graph of incentive policies in China because I don't want to mess the whole story up and make it uncohesive. I don't meant to do a comparison.
+2.  I have added several labels on the graphs to directly show the number. For example, in the 'incentives' graph, the original size of circles are similar. Adding percent directly on the circle help understand the preferences on EV incentives.
 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
